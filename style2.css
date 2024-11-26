@@ -810,7 +810,7 @@ footer{
     }
 }
 
-@media (width<=365px) {
+@media (width<=377px) {
     html{
         font-size: 22.5%;
     }
