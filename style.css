@@ -1460,8 +1460,8 @@ footer{
 
         & .main-section{
             height: 65%;
-            margin-top: 3.3rem;
-            /* background-color: red; */
+            margin-top: 3rem;
+
             & .my-img{
                 width: 40rem;
                 height: 40rem;
