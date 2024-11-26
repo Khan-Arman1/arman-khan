@@ -812,7 +812,7 @@ footer{
 
 @media (width<=380px) {
     html{
-        font-size: 23.5%;
+        font-size: 24.1%;
     }
 /* common */
 /* common */
@@ -850,7 +850,7 @@ footer{
     }
     
     .about-section{
-        height: 180vh;
+        height: 170vh;
         /* background-color: red; */
 
         & .about-content{
