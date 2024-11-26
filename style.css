@@ -1463,8 +1463,8 @@ footer{
             margin-top: 5rem;
             /* background-color: red; */
             & .my-img{
-                width: 42rem;
-                height: 42rem;
+                width: 40rem;
+                height: 40rem;
             }
             & .intro{
                 
@@ -1474,7 +1474,7 @@ footer{
                     letter-spacing: 0;
                 }
                 & p{
-                    font-size: 4rem;
+                    font-size: 3rem;
                     letter-spacing: 0.1rem;
                 }
 
