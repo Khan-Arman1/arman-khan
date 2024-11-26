@@ -675,7 +675,7 @@ footer{
 
 
     .about-section{
-        height: 160vh;
+        height: 170vh;
         & .about-content{
             height: auto;
             
@@ -850,12 +850,13 @@ footer{
     }
     
     .about-section{
-        height:210vh;
+        height:230vh;
  
 
-        & .about-content{
+        & .about-content{
+           
 
-            & .about-heading, .about-skills, .about-my-qualification{
+ & .about-heading, .about-skills, .about-my-qualification{
                 & p{
                     font-size: 3.5rem;
                 }
