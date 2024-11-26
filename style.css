@@ -196,7 +196,7 @@ main{
             display: grid;
             justify-content: end;
             width: 20rem;
-            z-index: 1;
+            z-index: 3;
 
                 & a{
                     font-size: 1.7rem;
