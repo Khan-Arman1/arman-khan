@@ -850,8 +850,8 @@ footer{
     }
     
     .about-section{
-        height: 400vh;
-        /* background-color: red; */
+        height:220vh;
+         background-color: red; 
 
         & .about-content{
 
