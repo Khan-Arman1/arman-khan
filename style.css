@@ -1406,7 +1406,7 @@ footer{
 
 @media (width<=375px) {
     html{
-        font-size: 26.5%;
+        font-size: 22.5%;
     }
 /* common */
 /* common */
@@ -1463,8 +1463,8 @@ footer{
             margin-top: 5rem;
             /* background-color: red; */
             & .my-img{
-                width: 45rem;
-                height: 45rem;
+                width: 42rem;
+                height: 42rem;
             }
             & .intro{
                 
