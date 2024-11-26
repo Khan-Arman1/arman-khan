@@ -152,7 +152,7 @@ a{
         justify-content: center;
         justify-items: center;
         padding: 2rem;
-        background-color: rgb(250, 235, 215);
+        background-color: rgb(255, 240, 220);
         
         
         & .about-heading, .about-skills, .about-my-qualification{
@@ -850,7 +850,7 @@ footer{
     }
     
     .about-section{
-        height: 170vh;
+        height: 160vh;
         /* background-color: red; */
 
         & .about-content{
