@@ -139,21 +139,20 @@ a{
 /* about page */
 .about-section{
     width: 100%;
-    height: 210vh;
-    position: relative;
+    height: 100vh;   
     justify-items: center;
-    align-items: center;
+    align-content: center;
     background-color: rgb(234, 230, 230);
     
     
     & .about-content{
         width: 80%;
-        height: auto;
-        justify-content: center;
-        justify-items: center;
-        padding: 2rem;
-        background-color: rgb(255, 240, 220);
+        height: 80vh;
+        overflow:auto;
         
+
+        padding: 2rem;
+        background-color: rgb(250, 235, 215);
         
         & .about-heading, .about-skills, .about-my-qualification{
             width: 100%;
@@ -513,7 +512,7 @@ footer{
     }
 
     .about-section{
-        height: 140vh;
+        height: 100vh;
         
         & .about-content{
             /* margin-top: 3rem; */
@@ -675,9 +674,9 @@ footer{
 
 
     .about-section{
-        height: 170vh;
+        height: 100vh;
         & .about-content{
-            height: auto;
+            /* height: auto; */
             
             & .about-heading, .about-skills, .about-my-qualification, .about-my-photos{
                 & h1{
@@ -810,9 +809,9 @@ footer{
     }
 }
 
-@media (width<=380px) {
+@media (width<=365px) {
     html{
-        font-size: 24.1%;
+        font-size: 26.5%;
     }
 /* common */
 /* common */
@@ -850,13 +849,12 @@ footer{
     }
     
     .about-section{
-        height:230vh;
- 
+        height: 100vh;
+        /* background-color: red; */
 
-        & .about-content{
-           
+        & .about-content{
 
- & .about-heading, .about-skills, .about-my-qualification{
+            & .about-heading, .about-skills, .about-my-qualification{
                 & p{
                     font-size: 3.5rem;
                 }
