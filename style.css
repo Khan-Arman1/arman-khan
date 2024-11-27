@@ -1404,7 +1404,7 @@ footer{
 
 }
 
-@media (width<=380px) {
+@media (width<=382px) {
     html{
         font-size: 24.1%;
     }
